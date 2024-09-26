@@ -1,0 +1,8 @@
+[MESSAGES CONTROL]
+disable=C0114, C0115, C0116, C0303, C0304, R0902
+
+[LOGGING]
+logging-modules=logging
+
+[MISCELLANEOUS]
+notes=FIXME,XXX,TODO
